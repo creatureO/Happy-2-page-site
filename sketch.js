@@ -162,3 +162,5 @@ textSize(60);{
   
 }
 
+function windowResized(){
+  resizeCanvas(windowWidth,3500);}
